@@ -10,3 +10,7 @@ If you like this repo, feel free to star it
 5. [Trivago](https://careers.trivago.com/)
 6. [Glovo](https://jobs.glovoapp.com/)
 7. [Dropbox](https://jobs.dropbox.com/)
+8. [Bookimg.com](https://jobs.booking.com/careers)
+9. [Expedia](https://careers.expediagroup.com/)
+10. [DXC Technologies](https://careers.dxc.com/)
+11. [Fedex](https://careers.fedex.com/fedex/)
